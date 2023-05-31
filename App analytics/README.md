@@ -1,5 +1,5 @@
 # Исследование бизнес-показателей развлекательного приложения Procrastinate Pro+  
-[ipynb]([https://github.com/lenaatsvetkova/tsvekovalena/blob/main/App%20analytics/Исследование%20бизнес-показателей%20развлекательного%20приложения%20Procrastinate%20Pro%2B%2B.ipynb])
+[ipynb](https://github.com/lenaatsvetkova/tsvekovalena/blob/main/App%20analytics/Исследование%20бизнес-показателей%20развлекательного%20приложения%20Procrastinate%20Pro%2B%2B.ipynb)
 
 ## Описание проекта
 
