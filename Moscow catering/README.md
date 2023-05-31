@@ -1,10 +1,10 @@
-# Анализ текстов
+# Исследования рынка общепита в Москве для принятия решения об открытии нового заведения 
 
-[md](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.md)    [ipynb](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.ipynb)
+[ipynb]([https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.ipynb](https://github.com/lenaatsvetkova/tsvekovalena/blob/main/Moscow%20catering/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BE%D0%B1%D1%89%D0%B5%D0%BF%D0%B8%D1%82%D0%B0%20%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5%20.ipynb))
 
 ## Описание проекта
 
-Требуется анализировать комментарии пользователей на английском языке и выделять токсичные, чтобы отправить на модерацию.
+Исследование рынка общественного питания на основе открытых данных, подготовка презентации для инвесторов. 
 
 
 
@@ -12,15 +12,11 @@
 
 - **python**
 - **pandas**
-- **numpy**
-- nltk.stem.**WordNetLemmatizer**
-- sklearn.feature_extraction.text.**TfidfVectorizer**
-- sklearn.linear_model.**LogisticRegression**
-- sklearn.ensemble.**RandomForestClassifier**
-- catboost.**CatBoostClassifier**
+- **matplotlib**
+- **plotly**
 
 
 
 ## Вывод
 
-Была проведена исследовательская работа по обработке текстов и обучению и выбору модели для определения токсичных комментариев по методу TF-IDF. Выбрана линейная регрессия. Намечены шаги по дальнейшей настройке модели.
+Мною был исследован вопрос - будет ли успешным и популярным на долгое время кафе, в котором гостей обслуживают роботы-официанты. По результатам анализа подготовлена презентация для инвесторов с рекомендациями. В построении графиков я использовала библиотеки seaborn и plotly. 
